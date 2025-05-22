@@ -6,10 +6,10 @@
 # Esse script coleta alguns dados 
 
 ### Exemplos
-`./minfo.sh hostname - mostra o nome da máquina`
+`./minfo.sh hostname - mostra o nome da máquina.`
 
-`./minfo.sh uptime - mostra o tempo que a máquina está ligada`
+`./minfo.sh uptime - mostra o tempo que a máquina está ligada. `
 
-`./minfo.sh disk - mostra o uso do disco`
+`./minfo.sh disk - mostra onde está alocado. `
 
-`./minfo.sh all - mostra as 3 informções iniciais`
+`./minfo.sh all - mostra todas as informações acima. `
