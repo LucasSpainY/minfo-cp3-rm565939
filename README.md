@@ -1,7 +1,4 @@
-* Titulo do projeto
-* Descrição (2-1 linhas)
-* Exemplo de Uso
-# Coletor de Dados
+* ARGUMENTOS BASH
 # Esse script coleta alguns dados 
 
 ### Exemplos
