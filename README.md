@@ -1,9 +1,6 @@
-* Titulo do projeto
-* Descrição (2-1 linhas)
-* Exemplo de Uso
-# Coletor de Dados
+# Argumentos
 
-# Esse script coleta alguns dados 
+## Argumentos do Bash
 
 ### Exemplos
 `./minfo.sh hostname - mostra o nome da máquina.`
